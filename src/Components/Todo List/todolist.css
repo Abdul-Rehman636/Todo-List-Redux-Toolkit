@@ -1,0 +1,23 @@
+#head-text{
+    font-family: "Poppins";
+}
+
+#task-input::placeholder{
+    font-family: "Poppins";
+}
+
+#task-input{
+    font-family: "Poppins";
+}
+
+#task-text{
+    font-family: "Poppins";
+}
+
+#update-input::placeholder{
+    font-family: "Poppins";
+}
+
+#update-input{
+    font-family: "Poppins";
+}
